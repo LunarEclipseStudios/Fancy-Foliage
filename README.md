@@ -20,7 +20,7 @@ Releases are considered to be **suitable for general use**, but they are not gua
 
 
 ## Community
-[![Discord chat](https://img.shields.io/badge/chat%20on-discord-7289DA?logo=discord&logoColor=white)](https://discord.gg/RmMtqxJJgH)
+[![Discord chat](https://img.shields.io/badge/chat%20on-discord-7289DA?logo=discord&logoColor=white)](https://discord.lunareclipse.studio)
 
 We have an [official Discord community.](https://discord.gg/RmMtqxJJgH) By joining, you can:
 #### Get installation help and technical support
