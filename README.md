@@ -19,7 +19,7 @@ Releases are considered to be **suitable for general use**, but they are not gua
 
 ---
 
-### Community
+## Community
 [![Discord chat](https://img.shields.io/badge/chat%20on-discord-7289DA?logo=discord&logoColor=white)](https://discord.gg/RmMtqxJJgH)
 
 We have an [official Discord community.](https://discord.gg/RmMtqxJJgH) By joining, you can:
@@ -29,7 +29,7 @@ We have an [official Discord community.](https://discord.gg/RmMtqxJJgH) By joini
 
 ---
 
-### Website
+## Website
 Feel free to check out our website!
 https://lunareclipse.studio
 </div>
