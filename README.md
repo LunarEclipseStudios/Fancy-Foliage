@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Two-Moons</h1>
+<img src="https://lunareclipse.studio/assets/img/fancy-foliage/banner-text.png" height="100">
 <h2>Resource Pack for Minecraft: Java Edition</h2>
 
 Two Moons is a small addon resourcepack made for the sole purpose of adding two moons to the night sky in Minecraft. 
