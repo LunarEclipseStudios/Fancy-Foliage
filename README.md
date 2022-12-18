@@ -17,7 +17,7 @@
 The latest releases of Two Moons is published to our [GitHub release](https://github.com/LunarEclipseStudios/Two-Moons/releases) pages. 
 Releases are considered to be **suitable for general use**, but they are not guaranteed to be free of bugs and other issues.
 
----
+
 
 ## Community
 [![Discord chat](https://img.shields.io/badge/chat%20on-discord-7289DA?logo=discord&logoColor=white)](https://discord.gg/RmMtqxJJgH)
@@ -27,7 +27,7 @@ We have an [official Discord community.](https://discord.gg/RmMtqxJJgH) By joini
 #### Be notified of the latest developments as they happen
 #### just hang out with the rest of our community.
 
----
+
 
 ## Website
 Feel free to check out our website!
