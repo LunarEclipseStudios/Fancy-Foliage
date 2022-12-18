@@ -2,7 +2,7 @@
 <img src="https://lunareclipse.studio/assets/img/fancy-foliage/banner-text.png" height="100">
 <h2>Resource Pack for Minecraft: Java Edition</h2>
 
-Two Moons is a small addon resourcepack made for the sole purpose of adding two moons to the night sky in Minecraft. 
+Fancy Foliage is an asthetic Minecraft resourcepack that adds many new variants to Minecraft's plants!
 ![1](https://user-images.githubusercontent.com/26262092/187504073-a3e53c2f-92e4-495c-a2bf-14d3b667558e.png)
 ![2](https://user-images.githubusercontent.com/26262092/187504078-5a3d2bf7-1106-4dab-8537-f75ace457df8.png)
 ![3](https://user-images.githubusercontent.com/26262092/187504083-3d9bcbc3-7240-46e1-ab04-2dfa875c63f4.png)
