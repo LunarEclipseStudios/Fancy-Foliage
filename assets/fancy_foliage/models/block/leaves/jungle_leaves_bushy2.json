@@ -1,0 +1,7 @@
+{
+    "parent": "fancy_foliage:block/templates/template_leaves_bushy2",
+    "textures": {
+        "all": "block/jungle_leaves",
+        "bushy": "fancy_foliage:block/leaves/jungle_leaves_bushy2"
+    }
+}

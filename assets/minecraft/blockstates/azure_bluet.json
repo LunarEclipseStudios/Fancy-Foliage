@@ -1,0 +1,14 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "block/azure_bluet",
+        "weight": 10
+      },
+      {
+        "model": "fancy_foliage:block/foliage/flowers/azure_bluet/candytuft",
+        "weight": 10
+      }
+    ]
+  }
+}

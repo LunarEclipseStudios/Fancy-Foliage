@@ -1,0 +1,26 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "block/poppy",
+        "weight": 10
+      },
+      {
+        "model": "fancy_foliage:block/foliage/flowers/poppy/blue_poppy",
+        "weight": 10
+      },
+      {
+        "model": "fancy_foliage:block/foliage/flowers/poppy/white_poppy",
+        "weight": 10
+      },
+      {
+        "model": "fancy_foliage:block/foliage/flowers/poppy/rose",
+        "weight": 5
+      },
+      {
+        "model": "fancy_foliage:block/foliage/flowers/poppy/blue_rose",
+        "weight": 5
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "block/blue_orchid",
+        "weight": 10
+      },
+      {
+        "model": "fancy_foliage:block/foliage/flowers/orchid/pink_orchid",
+        "weight": 10
+      },
+      {
+        "model": "fancy_foliage:block/foliage/flowers/orchid/white_orchid",
+        "weight": 10
+      },
+      {
+        "model": "fancy_foliage:block/foliage/flowers/orchid/yellow_orchid",
+        "weight": 10
+      },
+      {
+        "model": "fancy_foliage:block/foliage/flowers/orchid/red_orchid",
+        "weight": 10
+      }
+    ]
+  }
+}

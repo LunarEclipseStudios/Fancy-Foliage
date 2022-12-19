@@ -1,0 +1,14 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "block/lily_pad",
+        "weight": 10
+      },
+      {
+        "model": "fancy_foliage:block/foliage/lily_pad/waterlily",
+        "weight": 5
+      }
+    ]
+  }
+}

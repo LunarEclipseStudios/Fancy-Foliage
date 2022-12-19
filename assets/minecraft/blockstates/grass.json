@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "block/grass",
+        "weight": 100
+      },
+      {
+        "model": "fancy_foliage:block/foliage/plants/grass2",
+        "weight": 100
+      },
+      {
+        "model": "fancy_foliage:block/foliage/plants/long_plant1",
+        "weight": 7
+      },
+      {
+        "model": "fancy_foliage:block/foliage/plants/long_plant2",
+        "weight": 7
+      }
+    ]
+  }
+}

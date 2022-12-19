@@ -1,0 +1,32 @@
+{
+  "variants": {
+    "half=lower": [
+      {
+        "model": "minecraft:block/rose_bush_bottom",
+        "weight": 10
+      },
+      {
+        "model": "fancy_foliage:block/foliage/flowers/rose_bush/blue_rose_bush_bottom",
+        "weight": 10
+      },
+      {
+        "model": "fancy_foliage:block/foliage/flowers/rose_bush/white_rose_bush_bottom",
+        "weight": 10
+      }
+    ],
+    "half=upper": [
+      {
+        "model": "minecraft:block/rose_bush_top",
+        "weight": 10
+      },
+      {
+        "model": "fancy_foliage:block/foliage/flowers/rose_bush/blue_rose_bush_top",
+        "weight": 10
+      },
+      {
+        "model": "fancy_foliage:block/foliage/flowers/rose_bush/white_rose_bush_top",
+        "weight": 10
+      }
+    ]
+  }
+}
