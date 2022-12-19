@@ -2,7 +2,7 @@
 <img src="https://lunareclipse.studio/assets/img/fancy-foliage/banner-text.png" height="100">
 <h2>Resource Pack for Minecraft: Java Edition</h2>
 
-<h3>Fancy Foliage is an asthetic Minecraft resourcepack that adds many new variations to Minecraft's plants!</h3>
+<h3>Fancy Foliage is an aesthetic Minecraft resourcepack that adds many new variations to Minecraft's plants!</h3>
 
 ![1](https://lunareclipse.studio/assets/img/fancy-foliage/img/1.png)
 ![2](https://lunareclipse.studio/assets/img/fancy-foliage/img/2.png)
