@@ -4,9 +4,12 @@
 
 <h3>Fancy Foliage is an asthetic Minecraft resourcepack that adds many new variations to Minecraft's plants!</h3>
 
-![1](https://user-images.githubusercontent.com/26262092/187504073-a3e53c2f-92e4-495c-a2bf-14d3b667558e.png)
-![2](https://user-images.githubusercontent.com/26262092/187504078-5a3d2bf7-1106-4dab-8537-f75ace457df8.png)
-![3](https://user-images.githubusercontent.com/26262092/187504083-3d9bcbc3-7240-46e1-ab04-2dfa875c63f4.png)
+![1](https://lunareclipse.studio/assets/img/fancy-foliage/img/1.png)
+![2](https://lunareclipse.studio/assets/img/fancy-foliage/img/2.png)
+![3](https://lunareclipse.studio/assets/img/fancy-foliage/img/3.png)
+![4](https://lunareclipse.studio/assets/img/fancy-foliage/img/4.png)
+![5](https://lunareclipse.studio/assets/img/fancy-foliage/img/5.png)
+![6](https://lunareclipse.studio/assets/img/fancy-foliage/img/6.png)
 
 ## Installation
 
