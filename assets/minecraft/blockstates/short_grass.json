@@ -2,7 +2,7 @@
   "variants": {
     "": [
       {
-        "model": "block/grass",
+        "model": "block/short_grass",
         "weight": 100
       },
       {
