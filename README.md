@@ -1,15 +1,15 @@
-# ![image](https://lunareclipse.studio/assets/img/fancy-foliage/banner-text.png)
+# ![image](https://cdn.lunareclipse.studio/img/projects/fancy-foliage/banner-text.webp)
 
 ## **Resource Pack for Minecraft: Java Edition**
 
 Fancy Foliage is an aesthetic Minecraft resourcepack that adds many new variations to Minecraft's plants!
 
-![1](https://lunareclipse.studio/assets/img/fancy-foliage/img/1.png)
-![2](https://lunareclipse.studio/assets/img/fancy-foliage/img/2.png)
-![3](https://lunareclipse.studio/assets/img/fancy-foliage/img/3.png)
-![4](https://lunareclipse.studio/assets/img/fancy-foliage/img/4.png)
-![5](https://lunareclipse.studio/assets/img/fancy-foliage/img/5.png)
-![6](https://lunareclipse.studio/assets/img/fancy-foliage/img/6.png)
+![1](https://cdn.lunareclipse.studio/img/projects/fancy-foliage/gallery/1.webp)
+![2](https://cdn.lunareclipse.studio/img/projects/fancy-foliage/gallery/2.webp)
+![3](https://cdn.lunareclipse.studio/img/projects/fancy-foliage/gallery/3.webp)
+![4](https://cdn.lunareclipse.studio/img/projects/fancy-foliage/gallery/4.webp)
+![5](https://cdn.lunareclipse.studio/img/projects/fancy-foliage/gallery/5.webp)
+![6](https://cdn.lunareclipse.studio/img/projects/fancy-foliage/gallery/6.webp)
 
 ## **Installation**
 
